@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIP</h1>
-<h3 align="center">🖥️ Creator of **VIP OS** – Open-source Linux distro for engineers, pentesters, and learners 🔒 Cybersecurity Enthusiast | 💻 Linux Lover | 🛠 Open-source Contributo</h3>
+<h3 align="center">🖥️ Creator of VIP OS – Open-source Linux distro for engineers, pentesters, and learners 🔒 Cybersecurity Enthusiast | 💻 Linux Lover | 🛠 Open-source Contributo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipos-testuser&label=Profile%20views&color=0e75b6&style=flat" alt="vipos-testuser" /> </p>
 
