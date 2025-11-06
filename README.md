@@ -1,35 +1,139 @@
-<h1 align="center">Hi 👋, I'm VIP</h1>
-<h3 align="center">🖥️ Creator of VIP OS – Open-source Linux distro for engineers, pentesters, and learners 🔒 Cybersecurity Enthusiast | 💻 Linux Lover | 🛠 Open-source Contributo</h3>
+# 💀 VIP | Etik Haker & Linux Meysalari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipos-testuser&label=Profile%20views&color=0e75b6&style=flat" alt="vipos-testuser" /> </p>
+> *"Tizimlarni ehtiyotkorlik bilan buzish | Asboblarni qorquvmay qurilish | Har doim o'rganish"*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipos-testuser" alt="vipos-testuser" /></a> </p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🎯 VIP OS Yaratuvchi | Penetration Testing Mutaxassisi      ║
+║  🛠️  Open-Source Hissadaror | 🔓 CTF O'yinchi                ║
+║  🔐 Xavfsizlik Birinchi | 🐧 Linux Fanaati                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 🔭 I’m currently working on [VIP OS](https://github.com/VIPOS-testuser/VIP-OS)
+---
 
-- 👯 I’m looking to collaborate on [Open-source Linux tools](Pentesting & cybersecurity projects)
+## 🚀 Men Kimman?
 
-- 👨‍💻 All of my projects are available at [https://t.me/Xorazmlik_2004](https://t.me/Xorazmlik_2004)
+Mening ismim **VIP** va men **Linux xavfsizlik olamida** hol-harakot qilayotgan bir dasturchi-haker. **VIP OS** — bu men yaratgan open-source Linux taqsimoti bo'lib, u **pentesterlar**, **xavfsizlik tadqiqotchilari** va **tizim meysalari** uchun maxsus tayyorlangan.
 
-- 📝 I regularly write articles on [https://t.me/Xorazmlik_2004](https://t.me/Xorazmlik_2004)
+Mening passiyalarim:
+- 🔓 **Penetration Testing** — tizimlarning zaifliklarini topish va tuzatish
+- 🐧 **Linux Kernel Hacking** — operatsion sistemani o'zim xohlagandek o'zgartirish
+- 🤖 **IoT Xavfsizlik** — ESP32, RFID, simsiz protokollar bilan ishlash
+- 💻 **Open-Source Inqilobi** — xavfsizlik asboblarini hamma uchun oson qilish
+- 🧠 **Reverse Engineering** — narsalarning ichini tushunish va analiz qilish
 
-- 💬 Ask me about **- Linux customization - Penetration testing - ESP32 / IoT**
+---
 
-- 📫 How to reach me **- Telegram: [@Xorazmlik_2004](https://t.me/Xorazmlik_2004) - GitHub: [VIPOS-testuser](https://github.com/VIPOS-testuser)**
+## 🏆 Mening Mukofotlar va Yutuqlar
 
-- 📄 Know about my experiences [https://t.me/Xorazmlik_2004](https://t.me/Xorazmlik_2004)
+![Trophy](https://github-profile-trophy.vercel.app/?username=vipos-testuser&theme=darkhub&no-frame=true&column=4&row=1)
 
-- ⚡ Fun fact **Gaming**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🎯 Hozirda Ishlayotgan Loyihalar
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### 🔥 **VIP OS** — Linux Distro Xavfsizlik Uchun
+**GitHub:** [VIPOS-testuser/VIP-OS](https://github.com/VIPOS-testuser/VIP-OS)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipos-testuser&show_icons=true&locale=en&layout=compact" alt="vipos-testuser" /></p>
+VIP OS — bu men yaratgan o'ziga xos Linux taqsimoti. Unda:
+- ✅ Pentesting framework'lari o'rnatilgan
+- ✅ Keraksiz dasturlar olib tashlangan
+- ✅ Xavfsizlik kuchaytirilgan
+- ✅ Hacker mentaliteti bilan tayyorlangan
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipos-testuser&show_icons=true&locale=en" alt="vipos-testuser" /></p>
+**Nima uchun VIP OS?** Chunki siz har qanday Linux bilan ishlashingiz mumkin, lekin VIP OS — bu **haker uchun** Linux!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipos-testuser&" alt="vipos-testuser" /></p>
+### 🛡️ Boshqa Loyihalar
+Mening **GitHub** sahifamda ko'plab security asbobları va CTF yechimları mavjud. Qo'zg'altiradigan kod va clever solutions bilangan! 🚀
+
+---
+
+## 💻 Texnologiya Stack'im
+
+```
+┌─ PROGRAMMING LANGUAGES ──────────────────────────────┐
+│  🐍 Python   │  ⚙️ C++   │  🖥️ Bash   │  📝 Assembly |
+└──────────────────────────────────────────────────────┘
+
+┌─ SECURITY TOOLS ─────────────────────────────────┐
+│  🎯 Metasploit  │  🔍 Burp Suite  │  📊 Wireshark|
+└──────────────────────────────────────────────────┘
+
+┌─ IoT & HARDWARE ────────────────────────────────┐
+│  🤖 Arduino  │  🔌 ESP32  │  🍓 Raspberry Pi    |
+└─────────────────────────────────────────────────┘
+
+┌─ DEVOPS & DATABASES ─────────────────────────────┐
+│  🐳 Docker  │  📊 MongoDB  │  🗄️ MySQL  │  ☁️ GCP|
+└──────────────────────────────────────────────────┘
+
+┌─ ADVANCED TOOLS ──────────────────────────────────────┐
+│  👁️ OpenCV  │  🌐 Nginx  │  🔧 Git  │  💾 Linux Kernel|
+└───────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 GitHub Statistika
+
+### 📊 Eng ko'p ishlatiladigan tillar
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vipos-testuser&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&text_color=58a6ff)
+
+### 💪 GitHub Faoliyat
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipos-testuser&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&text_color=58a6ff&include_all_commits=true&count_private=true)
+
+### 🔥 Davamiylik Streaki
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vipos-testuser&theme=radical&hide_border=true&background=0d1117)
+
+---
+
+## 🎮 Men Bilan Bog'lanish
+
+| 📱 Platform | 🔗 Link |
+|-----------|--------|
+| **Telegram** | [@Xorazmlik_2004](https://t.me/Xorazmlik_2004) |
+| **GitHub** | [@VIPOS-testuser](https://github.com/VIPOS-testuser) |
+| **TryHackMe** | [Xorazmlik](https://tryhackme.com/p/JohnHacker) |
+
+---
+
+## ❓ Menga Nima Haqida Savol Berish Mumkin?
+
+```
+🔐 Linux Kernel Customization    🛡️ Network Security
+🤖 ESP32 & IoT Projects          📡 Wireless Hacking
+🔍 Reverse Engineering            💻 Python Automation
+🎯 Penetration Testing            ⚙️ System Administration
+🕵️ Social Engineering Protection  🚀 Exploit Development
+```
+
+---
+
+## 🌟 Qiziq Haqiqat
+
+Bilan bizning vazifamiz ikkinchi bo'lganida, birinchi bo'lganidagi o'yinarman. **Gaming** — buning uchun eng yaxshi o'quv manbai. O'yin arquitecturasini tusungan hacker xavfsizlikni ham tushunadi! 🎮🔐
+
+---
+
+## 🔗 Hamkorlik va Loyihalar
+
+**🟢 FAOL:** Xavfsizlik-yo'naltirilgan open-source loyihalarda hamkorlik qilishga tayyor  
+**🎯 QIDIRILMOQDA:** Talented CTF o'yinchilari va xavfsizlik tadqiqotchilari  
+**💡 TAKLIF:** Agar sizda qiziq loyiha bo'lsa, Telegram orqali yozing!
+
+---
+
+## 💬 Moto
+
+> **"Eng yaxshi himoya — ruxsatlik hujumni tushunishdir."**
+
+```
+██████████████████████████████████████████
+█ Stay Curious • Stay Secure • Stay Free █
+██████████████████████████████████████████
+```
+
+---
+
+**Oxirgi O'zgartirilgan:** 2025-11-06 | **Status:** 🟢 Online va Faol
