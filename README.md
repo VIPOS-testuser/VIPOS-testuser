@@ -4,9 +4,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🎯 VIP OS Yaratuvchi | Penetration Testing Mutaxassisi      ║
-║  🛠️  Open-Source Hissadaror | 🔓 CTF O'yinchi                ║
-║  🔐 Xavfsizlik Birinchi | 🐧 Linux Fanaati                   ║
+║  🎯 VIP OS Yaratuvchi | Penetration Testing Mutaxassisi     ║
+║  🛠️  Open-Source Hissadaror | 🔓 CTF O'yinchi               ║
+║  🔐 Xavfsizlik Birinchi | 🐧 Linux Fanaati                  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
