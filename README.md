@@ -1,4 +1,4 @@
-# 💀 VIP | Etik Haker & Linux Meysalari
+# 💀 VIP | Etik Haker & Linux User
 
 > *"Tizimlarni ehtiyotkorlik bilan buzish | Asboblarni qorquvmay qurilish | Har doim o'rganish"*
 
