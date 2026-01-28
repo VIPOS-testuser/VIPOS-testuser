@@ -175,4 +175,4 @@ Bilan bizning vazifamiz ikkinchi bo'lganida, birinchi bo'lganidagi o'yinarman. *
 
 ---
 
-**Oxirgi O'zgartirilgan:** 2025-11-06 | **Status:** 🟢 Online va Faol
+**Status:** 🟢 Online va Faol
