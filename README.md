@@ -30,6 +30,7 @@ Mening passiyalarim:
 ![Trophy](https://assets.tryhackme.com/room-badges/7b63dd336713ef54e17e6e2f3bba3e09.png)
 ![Trophy](https://assets.tryhackme.com/room-badges/e88de6af46059823e5fcd6e9f602ca35.png)
 ![Trophy](https://assets.tryhackme.com/room-badges/5e52acd47377f55fb7ebd3568bf58569.png)
+![Trophy](https://assets.tryhackme.com/room-badges/e28b8743d71ef044129d11ed3b263062.png)
 ![Trophy](https://assets.tryhackme.com/room-badges/204e6a7f8a3a9ec249f2d45b81f64322.png)
 ![Trophy](https://assets.tryhackme.com/room-badges/5abd5b9824c9e13ba281cb01a2b0c3ff.png)
 ![Trophy](https://assets.tryhackme.com/room-badges/fe24abbac365f898fba936772e0a257a.png)
