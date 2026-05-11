@@ -3,11 +3,11 @@
 > *"Tizimlarni ehtiyotkorlik bilan buzish | Asboblarni qorquvmay qurilish | Har doim o'rganish"*
 
 ```
-╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                            🎯 VIP OS Yaratuvchi       | 🧠 Penetration Testing Mutaxassisi                          ║
-║                            🛠️  Open-Source Hissadaror | 🔓 CTF O'yinchi                                             ║
-║                            🔐 Xavfsizlik Birinchi     | 🐧 Linux Fanaati                                            ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                         🎯 VIP OS Yaratuvchi       | 🧠 Penetration Testing Mutaxassisi                       ║
+║                         🛠️  Open-Source Hissadaror | 🔓 CTF O'yinchi                                          ║
+║                         🔐 Xavfsizlik Birinchi     | 🐧 Linux Fanaati                                         ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
