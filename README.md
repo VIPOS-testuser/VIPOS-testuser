@@ -82,7 +82,8 @@ Mening **GitHub** sahifamda ko'plab security asbobları va CTF yechimları mavju
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipos-testuser&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&text_color=58a6ff&include_all_commits=true&count_private=true)
 
 ### 🔥 Davamiylik Streaki
-![Streak](https://tryhackme-badges.s3.amazonaws.com/Xorazmlik.png)
+![Streak](https://tryhackme.com/Universe.exe/streak?sharerId=6905ead38cf7e1d8f19f3d1f)
+![LVL](https://tryhackme.com/share/capability-score/Universe.exe)
 
 ---
 
@@ -92,7 +93,7 @@ Mening **GitHub** sahifamda ko'plab security asbobları va CTF yechimları mavju
 |-----------|--------|
 | **Telegram** | [@Xorazmlik_2004](https://t.me/Xorazmlik_2004) |
 | **GitHub** | [@VIPOS-testuser](https://github.com/VIPOS-testuser) |
-| **TryHackMe** | [Xorazmlik](https://tryhackme.com/p/JohnHacker) |
+| **TryHackMe** | [Xorazmlik](https://tryhackme.com/p/Universe.exe) |
 
 ---
 
