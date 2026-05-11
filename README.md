@@ -75,14 +75,29 @@ Mening **GitHub** sahifamda ko'plab security asbobları va CTF yechimları mavju
 
 ## 📈 GitHub Statistika
 
+
 ### 📊 Eng ko'p ishlatiladigan tillar
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vipos-testuser&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&text_color=58a6ff)
+
+
+
 
 ### 💪 GitHub Faoliyat
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipos-testuser&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&text_color=58a6ff&include_all_commits=true&count_private=true)
 
+
+
+
 ### 🔥 Davamiylik Streaki
 ![Streak](https://tryhackme.com/Universe.exe/streak?sharerId=6905ead38cf7e1d8f19f3d1f)
+
+
+
+
+
+
+
+
 ![LVL](https://tryhackme.com/share/capability-score/Universe.exe)
 
 ---
